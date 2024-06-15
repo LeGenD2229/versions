@@ -1,0 +1,17 @@
+[
+    {
+        "script":"LE-core",
+        "version":"1.0.5"
+    },
+    
+    {
+        "script":"LE_anuncios",
+        "version":"1.0.0"
+    },
+    
+    {
+        "script":"LE_business",
+        "version":"1.0.4"
+    }
+    
+]
