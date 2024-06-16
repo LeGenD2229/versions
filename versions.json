@@ -1,6 +1,6 @@
 [
     {
-        "script":"LE-core",
+        "script":"LE_core",
         "version":"1.0.5"
     },
     
@@ -12,6 +12,51 @@
     {
         "script":"LE_business",
         "version":"1.0.4"
+    },
+
+    {
+        "script":"LE_defcon",
+        "version":"1.0.0"
+    },
+
+    {
+        "script":"LE_tpinteriors",
+        "version":"1.0.0"
+    },
+
+    {
+        "script":"LE_hud",
+        "version":"1.0.0"
+    },
+
+    {
+        "script":"LE_sistemaids",
+        "version":"1.0.0"
+    },
+
+    {
+        "script":"LE_basurero",
+        "version":"1.0.0"
+    },
+
+    {
+        "script":"LE_camionero",
+        "version":"1.0.0"
+    },
+
+    {
+        "script":"LE_traficar",
+        "version":"1.0.0"
+    },
+
+    {
+        "script":"LE_sistemadelincuente",
+        "version":"1.0.0"
+    },
+
+    {
+        "script":"LE_motores",
+        "version":"1.0.0"
     }
     
 ]
